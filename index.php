@@ -3,7 +3,7 @@ require_once "app.init.php";
 require_once APP_BASE_INC;
 ?>
 <!DOCTYPE html>
-<html lang="en" dir="ltr" manifest="./site.manifest">
+<html lang="en" dir="ltr" manifest="./site.webmanifest">
   <head>
     <meta charset="utf-8">
     <title>7 OS Web App</title>
